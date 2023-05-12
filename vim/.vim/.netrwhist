@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/mikel'
+let g:netrw_dirhist_7='/home/mikel/projects/next/nextjs-blog/pages'
+let g:netrw_dirhist_6='/home/mikel/projects/next/nextjs-blog'
+let g:netrw_dirhist_5='/home/mikel/projects/next/nextjs-blog/pages'
+let g:netrw_dirhist_4='/home/mikel/projects/next/nextjs-blog'
+let g:netrw_dirhist_3='/home/mikel/projects/next/nextjs-blog/pages'
+let g:netrw_dirhist_2='/home/mikel/projects/next/nextjs-blog'
+let g:netrw_dirhist_1='/home/mikel/projects/next/nextjs-blog/pages'
